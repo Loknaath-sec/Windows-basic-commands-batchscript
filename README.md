@@ -24,47 +24,48 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
 
-Remove the directory "my-folder"
+
+## Remove the directory "my-folder"
 
 **COMMAND AND OUTPUT**
 
 
 
-Create the file Rose.txt
+## Create the file Rose.txt
 
 **COMMAND AND OUTPUT**
 
 
 
-Create the file hello.txt using echo and redirection
+## Create the file hello.txt using echo and redirection
 
 **COMMAND AND OUTPUT**
 
 
-Copy the file hello.txt into the file hello1.txt
+## Copy the file hello.txt into the file hello1.txt
 
 **COMMAND AND OUTPUT**
 
 
-Remove the file hello1.txt
+## Remove the file hello1.txt
 
 **COMMAND AND OUTPUT**
 
 
-List out the file hello1.txt in the current directory
+## List out the file hello1.txt in the current directory
 
 #**COMMAND AND OUTPUT**
 
 
-List out all the associated file extensions 
+## List out all the associated file extensions 
 
 **COMMAND AND OUTPUT**
 
 
 
-Compare the file hello.txt and rose.txt
+## Compare the file hello.txt and rose.txt
 
 **COMMAND AND OUTPUT**
 
