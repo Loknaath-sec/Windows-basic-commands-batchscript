@@ -22,7 +22,7 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-Create a directory named "my-folder"
+## Create a directory named "my-folder"
 
 **COMMAND AND OUTPUT**
 
