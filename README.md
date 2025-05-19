@@ -28,38 +28,46 @@ Create a directory named "my-folder"
 
 Remove the directory "my-folder"
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 
 Create the file Rose.txt
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 
 Create the file hello.txt using echo and redirection
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 Copy the file hello.txt into the file hello1.txt
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 Remove the file hello1.txt
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 List out the file hello1.txt in the current directory
 
-## COMMAND AND OUTPUT
+#**COMMAND AND OUTPUT**
+
 
 List out all the associated file extensions 
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 
 Compare the file hello.txt and rose.txt
 
-## COMMAND AND OUTPUT
+**COMMAND AND OUTPUT**
+
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -68,7 +76,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 
-## OUTPUT
+### OUTPUT
 
 
 
@@ -82,7 +90,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 
-## OUTPUT
+### OUTPUT
 
 
 
@@ -92,7 +100,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 
-## OUTPUT
+### OUTPUT
 
 
 
@@ -105,7 +113,7 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
-## OUTPUT
+### OUTPUT
 
 
 Write a batch script that displays a simple menu with three options:
@@ -115,7 +123,7 @@ Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
 
-## OUTPUT
+### OUTPUT
 
 
 
